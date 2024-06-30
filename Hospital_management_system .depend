@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1684259021 source:/home/naol/Desktop/Cpp/Hospital_management_system /main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
